@@ -9,3 +9,5 @@ Simple, you need android studio with proper sdk and flutter configured in your s
 
 ## How to try?
 Download the apk and try it.
+
+![mobile](https://i.imgur.com/UlkPnzy.jpg)
