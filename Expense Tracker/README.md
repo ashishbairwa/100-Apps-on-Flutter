@@ -7,4 +7,4 @@
 ## How to run this app?
 Simple, you need android studio with proper sdk and flutter configured in your system
 
-[img]https://i.imgur.com/kLSFvSV.png[/img]
+![mobile](https://i.imgur.com/kLSFvSV.png)
